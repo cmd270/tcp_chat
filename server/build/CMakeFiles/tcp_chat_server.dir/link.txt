@@ -1,0 +1,1 @@
+/usr/bin/g++  -O2 -Wall -Wextra -rdynamic CMakeFiles/tcp_chat_server.dir/src/main.cc.o CMakeFiles/tcp_chat_server.dir/src/tcp_server.cc.o -o tcp_chat_server 

@@ -1,0 +1,3 @@
+/home/m/code/cpp/sp_coursework/client/build/CMakeFiles/tcp_chat.dir
+/home/m/code/cpp/sp_coursework/client/build/CMakeFiles/edit_cache.dir
+/home/m/code/cpp/sp_coursework/client/build/CMakeFiles/rebuild_cache.dir
