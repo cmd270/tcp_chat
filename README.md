@@ -1,16 +1,13 @@
-# Сетевой чат TCP
-> *Замечание: данный репозиторий бы создан с целью размещения курсовой работы по дисциплине "Сетевое Программирование".*
-
-## Необходимые зависимости
+## Depedencies
 1. `gtkmm3/4`
 2. `gtk3/4`
-## Сборка и запуск проекта клиентской части:
+## Build && run client side
 ```bash
 $ mkdir build && cd build
-$ cmake -DCMAKE_BUILD_TYPE=Debug ..
+$ cmake ..
 $ ./tcp_chat
 ```
-## Сборка и запуск проекта серверной части:
+## Build && run server side
 ```bash
 $ mkdir build && cd build
 $ cmake ..
